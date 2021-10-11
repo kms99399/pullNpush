@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Solution is 2"
+=======
+"Solution is not 1"
+>>>>>>> 64121642b813e3c23eaefa1d00aa5b06ccc0ba4b
